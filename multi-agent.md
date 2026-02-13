@@ -1,14 +1,3 @@
-# STRONGER-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs
-
-## 论文信息
-- **标题**: STRONGER-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs
-- **会议**: ICLR 2026
-- **作者**: Yujie Zhao, Lanxiang Hu, Yang Wang, Minmin Hou, Hao Zhang, Ke Ding, Jishen Zhao
-- **单位**: UC San Diego, Intel Corporation
-- **代码仓库**: https://github.com/pettingllms-ai/PettingLLMs
-
----
-
 ## 一、问题背景
 
 ### 1.1 现有技术
